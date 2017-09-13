@@ -1,4 +1,4 @@
-## Zürich CarParks Historical data
+## Zürich 🅿️CarParking historical data
 
 This repo holds a dump of occupancy status for the parking places in the city of Zürich. 
 Data is available as CSV and is stored inside the .zip file of this repo, i.e. `parking-zh-2017-09-13.zip`
